@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Threading.Tasks;
 
-namespace JunaApi
+namespace TrainApi
 {
     class Program
     {

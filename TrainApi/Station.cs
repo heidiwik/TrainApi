@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace JunaApi
+namespace TrainApi
 {
 
     public class StationList

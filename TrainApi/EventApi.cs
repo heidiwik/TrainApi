@@ -3,8 +3,9 @@ using System.Collections.Generic;
 using System.Text;
 using System.Threading.Tasks;
 using APIHelpers;
+using TrainApi;
 
-namespace JunaApi
+namespace TrainApi
 {
     public static class TrainApi
     {

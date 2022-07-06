@@ -12,6 +12,7 @@ namespace APIHelpers
         // create HTTP client
         private static HttpClient GetHttpClient(string url)
         {
+            // gzip decompression
             HttpClientHandler handler = new HttpClientHandler()
             {
                 AutomaticDecompression = DecompressionMethods.GZip | DecompressionMethods.Deflate
